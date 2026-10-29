@@ -14,7 +14,7 @@ I'm an information security student. The work I care about sits across cybersecu
 
 Right now that points toward network security, application security, digital forensics, and blue team work. I keep the practice going on TryHackMe, Hack The Box, and CyLab Academy.
 
-Projects, visual work, and a longer introduction are on the portfolio. YanoSec Academy is the beginner cybersecurity course for the YanoSec club. The course is at https://dj.pages.obsidian-shards.com/yanosec-academy/, and the source is at https://github.com/dj-secq/yanosec-academy.
+Projects, visual work, and a longer introduction are on the portfolio. YanoSec Academy is the beginner cybersecurity course for the YanoSec club. The course is at https://dj.pages.obsidian-shards.com/yanosec-academy/.
 
 <p align="center">
   <img src="skills.png" alt="Python, Java, Kotlin, JavaScript, TypeScript, PHP, C, Bash, React, Next.js, Linux, Docker, Git, Figma, MySQL, and PostgreSQL" width="442">
