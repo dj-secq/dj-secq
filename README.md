@@ -16,5 +16,5 @@ Right now that points toward network security, application security, digital for
 Projects, visual work, and a longer introduction are on the portfolio.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,js,ts,php,c,bash,react,nextjs,linux,docker,git,figma,mysql,postgres&perline=8&theme=light" alt="Python, Java, Kotlin, JavaScript, TypeScript, PHP, C, Bash, React, Next.js, Linux, Docker, Git, Figma, MySQL, and PostgreSQL">
+  <img src="skills.png" alt="Python, Java, Kotlin, JavaScript, TypeScript, PHP, C, Bash, React, Next.js, Linux, Docker, Git, Figma, MySQL, and PostgreSQL" width="442">
 </p>
